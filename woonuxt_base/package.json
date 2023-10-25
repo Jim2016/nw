@@ -1,0 +1,18 @@
+{
+  "name": "woonuxt",
+  "version": "3.2.1",
+  "main": "./nuxt.config.ts",
+  "type": "module",
+  "files": [
+    "nuxt.config.ts",
+    "composables",
+    "components",
+    "pages",
+    "app.vue",
+    "queries",
+    "types",
+    "plugins",
+    "public",
+    "locales"
+  ]
+}
